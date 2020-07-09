@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-## Welcome to my github account.
+### Welcome to my github account.
 
-#### Get in touch <br/>
+## Get in touch 
 
 - Personal website [varunyadav.com](www.varunyadav.com)
 <!--
