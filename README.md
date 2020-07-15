@@ -1,10 +1,14 @@
-### Hi there 👋
+### Hi 👋, I am [Varun](www.varunyadav.com)
 
 ### Welcome to my github account.
 
 ## Get in touch 
 
-- Personal website [varunyadav.com](www.varunyadav.com)
+![Twitter Follow](https://img.shields.io/twitter/follow/varun1_yadav?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)
+[![Follow me on Unsplash](https://img.shields.io/badge/See%20my%20photos%20on-Unsplash%20%F0%9F%93%B8-black?style=for-the-badge)](https://unsplash.com/@varun2411)
+ <a href="https://www.linkedin.com/in/varuncs">
+    <img src="https://img.shields.io/badge/linkedin-varun-blue">
+  </a>
 <!--
 **varunyn/varunyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
