@@ -1,4 +1,4 @@
-### Hi 👋, I am [Varun](www.varunyadav.com)
+### Hi 👋, I am [Varun](https://varunyadav.com)
 
 ### Welcome to my github account.
 
